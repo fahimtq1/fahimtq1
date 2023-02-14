@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a former Physics student with experience in Python, machine learning, and devops. My long-term goal is to become a solutions architect, and I'm working towards this by expanding my knowledge in the areas of cloud engineering, machine learning, and devops.
+I'm Fahim, a former Physics student with experience in Python, machine learning, and devops. My long-term goal is to become a solutions architect, and I'm working towards this by expanding my knowledge in the areas of cloud engineering, machine learning, and devops.
 
 ## About Me
 
