@@ -27,3 +27,5 @@ Check out my [GitHub profile](https://github.com/fahimtq1) to see my personal pr
 - Kubernetes and Docker
 - Jenkins
 - Vagrant and Virtual Box
+- YAML
+- BASH
